@@ -1,0 +1,31 @@
+// {
+//     "env": {
+//         "browser": true,
+//         "es2021": true
+//     },
+//     "extends": "standard-with-typescript",
+//     "overrides": [],
+//     "parserOptions": {
+//         "ecmaVersion": "latest",
+//         "sourceType": "module"
+//     },
+//     "rules": {
+//         "max-len": [
+//             "error",
+//             {
+//                 "code": 140
+//             }
+//         ],
+//         "comma-dangle": ["error", "never"],
+//         "no-underscore-dangle": 0,
+//         "no-console": "error",
+//         "no-multi-spaces": "error",
+//         "no-unused-expressions": [
+//             2,
+//             {
+//                 "allowTernary": true
+//             }
+//         ],
+//         "newline-per-chained-call": "off"
+//     }
+// }
